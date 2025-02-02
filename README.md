@@ -1,3 +1,7 @@
+**NOTE:** 🚀 Check it out! 🚀
+
+I’ve built a backend, but I didn’t stop there—I also created a frontend to make testing smoother and more interactive. Go ahead, run the frontend, explore, and see the backend in action. I’d love to hear your feedback! 🌟
+
 # FAQ Management System (BharatFD-backend-intern)
 
 This is a **Full-Stack FAQ Management System** where users can submit frequently asked questions (FAQs), and an admin can manage them. The project includes:
